@@ -8,7 +8,7 @@
 ## <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <br>
 <p align="left">
-<a href="https://linkedin.com/in/rikikalita"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-snjydas-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://linkedin.com/in/rikikalita"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rikikalita-blue?style=flat-square&logo=linkedin"></a>
 <a href="kalitariki5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kalitariki5@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
