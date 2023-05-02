@@ -26,11 +26,6 @@
 <p align="center"
 🤔 Looking for a job which would help me make most of my skills.
 
-&nbsp; &nbsp; _[View My CV]()_
-&nbsp; &nbsp; | &nbsp; &nbsp; _[View My Certificates](https://github.com/)
-</p>
-<br />
-
 ## <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
