@@ -8,9 +8,7 @@
 ## <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <br>
 <p align="left">
-<a href="https://mayank-bajaj.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mayankbajaj.me-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://linkedin.com/in/snjydas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-snjydas-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/geekyslayer"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-geekyslayer-blue?style=flat-square&logo=instagram"></a>
+<a href="https://linkedin.com/in/rikikalita"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-snjydas-blue?style=flat-square&logo=linkedin"></a>
 <a href="kalitariki5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kalitariki5@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
@@ -45,12 +43,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## Tools I work upon : 🛠
-
-<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-<br/>
-<br/>
-<br/>
 
 ## Blogs Posts
 
