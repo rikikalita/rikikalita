@@ -17,7 +17,7 @@
 
 - 🎓 Studied Computer Science & Engineering at <b>Royal Global University, Guwahati.</b></a>
 
-- 🔭 I’m currently studying full-stack web-develoment on Acciojob.
+- 🔭 Innovative thinker with a passion for creative excellence.
 
 - 📫 How to reach me **kalitariki5@gmail.com**.
 
