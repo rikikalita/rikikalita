@@ -37,6 +37,12 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Excel](https://img.shields.io/badge/Excel-333333?style=flat&logo=microsoft-excel&logoColor=217346)
+  ![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=postgresql&logoColor=336791)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-333333?style=flat&logo=powerbi&logoColor=F2C811)
+  ![Tableau](https://img.shields.io/badge/Tableau-333333?style=flat&logo=tableau&logoColor=E97627)
+  ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
+  ![AI](https://img.shields.io/badge/AI-333333?style=flat&logo=openai&logoColor=412991)
 
 
 ## Blogs Posts
